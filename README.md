@@ -42,7 +42,7 @@ npm install
 ```sh
 touch .env
 ```
-* Add the following lines
+* Add the following lines to the '.env' file
 ```
 DB_USER=root
 DB_PASS=example
