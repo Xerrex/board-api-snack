@@ -20,7 +20,7 @@
 * ### [MongoDB](https://docs.mongodb.com/)
 
 ## Prerequisites
-* Rest Client ie. [Postman]()
+* Rest Client ie. [Postman](https://www.postman.com/)
 * [Nodejs](#nodejs) or [Docker]()
 
 ## Project setup
